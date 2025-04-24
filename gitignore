@@ -1,0 +1,13 @@
+# Ignore build and output directories
+/build/
+/output_apk/
+
+# Ignore keystore files
+*.keystore
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+
+# Ignore APK files
+*.apk
