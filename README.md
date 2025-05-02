@@ -83,5 +83,4 @@ Made with ☠️ by [Vector](https://github.com/Vectorindia1)
 
 ---
 
-Feel free to replace the content or let me know if you'd like this added directly into your project! 🚀
 
