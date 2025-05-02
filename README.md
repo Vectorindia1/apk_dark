@@ -1,4 +1,4 @@
-# apk_dark / DURK ANK
+# DARK APK / DURK ANK
 Metasploit Payload Binder for Android APKs
 
 📱 A powerful CLI tool for injecting Metasploit reverse TCP payloads into trusted Android APKs.
